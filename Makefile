@@ -52,6 +52,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 dev:
+	make html
 	sphinx-autobuild -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
 html:
