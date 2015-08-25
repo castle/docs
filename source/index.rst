@@ -1,7 +1,9 @@
-Welcome to Castle.io's documentation!
-=====================================
+Castle.io
+=========
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
+   :maxdepth: 1
 
-   collector
+   tracking_user_behavior
+
