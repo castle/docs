@@ -3,7 +3,6 @@ Castle.io
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 2
 
-   tracking_user_behavior
-
+   getting-started/index
