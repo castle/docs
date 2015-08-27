@@ -7,3 +7,5 @@ Getting started
 
    tracking-user-behavior
    events
+   webhooks
+   secure-mode
