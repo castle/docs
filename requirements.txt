@@ -1,3 +1,4 @@
 Sphinx
 Pygments
 sphinx-autobuild
+-e git+git@github.com:snide/sphinx_rtd_theme.git@66d865d9c452152a2aec45b82ff7b4dc8a2194b5#egg=sphinx_rtd_theme
