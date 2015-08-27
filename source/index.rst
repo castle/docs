@@ -6,3 +6,5 @@ Castle.io
    :maxdepth: 2
 
    getting-started/index
+   topics/index
+   reference/index
